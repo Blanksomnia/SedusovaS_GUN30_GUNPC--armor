@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "VFrDEeHechv7Qa3HJF1PeEQ58g1vcvealJORD7Vk/l8G2Z9Qt9BqiGoBR1YxyS2PtAEg4/l+l2UCtKwrRuoo2w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sedus\\OneDrive\\Рабочий стол\\домашка\\Armor\\Armor\\Armor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\sedus\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

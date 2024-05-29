@@ -1,0 +1,14 @@
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\bin\Debug\net6.0\Armor.exe
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\bin\Debug\net6.0\Armor.deps.json
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\bin\Debug\net6.0\Armor.runtimeconfig.json
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\bin\Debug\net6.0\Armor.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\bin\Debug\net6.0\Armor.pdb
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.AssemblyInfoInputs.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.AssemblyInfo.cs
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.csproj.CoreCompileInputs.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\refint\Armor.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.pdb
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.genruntimeconfig.cache
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\ref\Armor.dll
