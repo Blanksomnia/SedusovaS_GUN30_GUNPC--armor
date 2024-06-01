@@ -12,3 +12,4 @@ C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\D
 C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.pdb
 C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.genruntimeconfig.cache
 C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\ref\Armor.dll
+C:\Users\sedus\OneDrive\Рабочий стол\домашка\Armor\Armor\obj\Debug\net6.0\Armor.sourcelink.json

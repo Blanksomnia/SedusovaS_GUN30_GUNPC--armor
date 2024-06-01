@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Armor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f1287f9a27f444ba14b174d48be79d229f95e7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b95848cf5629055b7cfbf063754303b155a82b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Armor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Armor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
